@@ -1,152 +1,92 @@
-<!-- ## Hi there 👋 -->
-
-<!-- <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div> -->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sanchit-Joshi)](https://github.com/ryo-ma/github-profile-trophy)
-
-### <div align="center">I'm Sanchit Joshi, a Computer Engineering student 👨‍💻</div>
-
-<!-- - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)   -->
-
-- ⚡ I’m currently graduating in computer engineering from GESCOE.
-- 🌱 I’m currently learning React.js and MongoDB
-- ⚡ Fun fact: I use tabs over spaces
-
-
-<!-- - ❓ Ask me about anything related to MERN stack and related technologies
-   -->
-
-
-
-<br/>
-
-## My Skill Set
-
-<table><tr><td valign="top" width="33%">
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" />   -->
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
-</div>
-</td><td valign="top" width="33%">
-
-
-
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />   -->
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />   -->
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />   -->
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-</div></td><td valign="top" width="33%">
-
-
-### DevOps
-
-<div align="center">  
-<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />   -->
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-</div></td></tr></table>  
-
-<br/>  
-
-## Connect with me
+# 👨‍💻 Sanchit Joshi
 
 <div align="center">
-<a href="https://github.com/Sanchit-Joshi" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<!-- <a href="https://twitter.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a> 
-<a href="https://dev.to/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a> -->
-<a href="https://www.linkedin.com/in/sanchit-joshi644" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<!-- <a href="https://www.facebook.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a> -->
-<a href="https://www.instagram.com/_.sanchit_joshi._" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6495ED&center=true&vCenter=true&random=false&width=435&lines=Computer+Engineering+Student;MERN+Stack+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <br>
+  
+  [![GitHub followers](https://img.shields.io/github/followers/Sanchit-Joshi?logo=GitHub&style=for-the-badge)](https://github.com/Sanchit-Joshi)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sanchit-joshi644)
+  [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.sanchit_joshi._)
+  [![Profile Views](https://komarev.com/ghpvc/?username=Sanchit-Joshi&style=for-the-badge&color=blueviolet)](https://github.com/Sanchit-Joshi)
 </div>
 
-<br/>
+## 🚀 About Me
 
-## Github Stats
+I'm a Computer Engineering student at GESCOE with a passion for full-stack development. I specialize in MERN stack technologies and enjoy solving complex problems through clean, efficient code.
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Sanchit-Joshi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+- 🎓 Graduating in Computer Engineering from GESCOE
+- 🌱 Currently mastering React.js and MongoDB
+- 💼 Open to collaborations on interesting web development projects
+- 🔍 Exploring advanced JavaScript concepts and design patterns
+- ⚡ Fun fact: I'm firmly in the tabs-over-spaces camp in the eternal developer debate
 
-<br/>
-<!-- 
-## Recent Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. --> 
-
-<!-- BLOG-POST-LIST:END -->
-
-<br/>
-<!-- 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div> -->
-
-<br/>
+## 💻 Tech Stack
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Sanchit-Joshi&&style=flat-square" align="center" />
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 </div>
 
-<br/>
+## 📊 GitHub Stats
 
-<!-- <div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br /> -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanchit-Joshi&show_icons=true&theme=tokyonight&hide_border=true" alt="Sanchit's GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanchit-Joshi&theme=tokyonight&hide_border=true" alt="Sanchit's Streak" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchit-Joshi&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+  
+  [![Trophy](https://github-profile-trophy.vercel.app/?username=Sanchit-Joshi&theme=darkhub&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+
+## 🛠️ Featured Projects
+
+Here are a few projects I'm proud of:
+- 🌐 [Project Name 1](https://github.com/Sanchit-Joshi) - Brief description of the project goes here
+- 📱 [Project Name 2](https://github.com/Sanchit-Joshi) - Brief description of the project goes here
+- 🤖 [Project Name 3](https://github.com/Sanchit-Joshi) - Brief description of the project goes here
+
+## 📫 Get in Touch
+
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanchit-joshi644)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanchit-Joshi)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.sanchit_joshi._)
+
+</div>
 
 ---
 
-<!-- <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
-<!--
-**Sanchit-Joshi/Sanchit-Joshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+<div align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+</div>
