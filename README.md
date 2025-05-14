@@ -66,13 +66,14 @@ I'm a Computer Engineering student at GESCOE with a passion for full-stack devel
   [![Trophy](https://github-profile-trophy.vercel.app/?username=Sanchit-Joshi&theme=darkhub&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
+<!--
 ## 🛠️ Featured Projects
 
 Here are a few projects I'm proud of:
 - 🌐 [Project Name 1](https://github.com/Sanchit-Joshi) - Brief description of the project goes here
 - 📱 [Project Name 2](https://github.com/Sanchit-Joshi) - Brief description of the project goes here
 - 🤖 [Project Name 3](https://github.com/Sanchit-Joshi) - Brief description of the project goes here
-
+-->
 ## 📫 Get in Touch
 
 <div align="center">
